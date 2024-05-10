@@ -1,6 +1,7 @@
 # Solidity Token Contract
 
 This code was made following the instructions of the Metacrafters Course for solidity
+Created using Remix, An online Ethereum IDE
 
 ## Authors
 
